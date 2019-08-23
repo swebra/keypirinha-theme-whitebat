@@ -9,7 +9,7 @@ Whitebat is a theme for [Keypirinha](http://keypirinha.com/) that aims for a cle
 ![screenshot2](screenshots/screenshot2.png)
 
 ## Installation
-Add the text from `whitefox.ini` to your `Keypirinha.ini` configuration file to install the theme. A restart of Keypirinha may be required to fix any textbox issues.  
+Add the text from `whitebat.ini` to your `Keypirinha.ini` configuration file to install the theme. A restart of Keypirinha may be required to fix any textbox issues.  
 
 Note the theme itself is split into two parts, the layout and the color, allowing them to be enabled independently with the `theme` tag. Furthermore, the color section is easily modifiable with the `whitebat_xx` color variables.
 
